@@ -50,7 +50,7 @@ Whether you need to secure your connection on public Wi-Fi, bypass geo-restricti
 To run Lumenox smoothly, ensure your system meets the following requirements:
 
 * **OS:** Windows 10 or Windows 11 (64-bit architecture)
-* **Framework:** .NET Desktop Runtime (you need to install it manually if missing), Drirect Link: ([.NET Desktop Runtime 9.0.18 x64]([https://dotnet.microsoft.com/en-us/download/dotnet/9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.18-windows-x64-installer)))
+* **Framework:** .NET Desktop Runtime (you need to install it manually if missing), Drirect Link: [9.0.18 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.18-windows-x64-installer)
 * **Permissions:** Administrator privileges are required for TUN Mode and Network Routing features.
 
 ---
